@@ -40,13 +40,13 @@
 
 ## 📸 Screenshots
 ### 🏠 Home Page
-![Home](./assets/home.jpg)
+![Home](https://github.com/AHMAD-JX/Hozn-RealEstate-Fullstack/blob/eedce2626f82448aa5611f945dbc5778ddcef4eb/public/assets/images/assets/1.png)
 
 ### 🏡 Property Listing
-![Properties](./assets/properties.jpg)
+![Properties](https://github.com/AHMAD-JX/Hozn-RealEstate-Fullstack/blob/eedce2626f82448aa5611f945dbc5778ddcef4eb/public/assets/images/assets/2.png)
 
 ### 🛠️ Dashboard
-![Dashboard](./assets/dashboard.jpg)
+![Dashboard](https://github.com/AHMAD-JX/Hozn-RealEstate-Fullstack/blob/eedce2626f82448aa5611f945dbc5778ddcef4eb/public/assets/images/assets/3.png)
 
 ## 🛠️ Tech Stack
 
