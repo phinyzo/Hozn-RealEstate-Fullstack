@@ -173,24 +173,17 @@ npm run dev
 
 ```
 ## 🛠️ API Endpoints
-### 🔹 Authentication
-- `POST /api/auth/signup` → 
-- `POST /api/auth/login` → 
 
-### 🔹 User Profile
-- `GET /api/profile` → 
-- `PUT /api/profile` → 
-
-### 🔹 Properties
-- `POST /api/properties` → 
-- `GET /api/properties` → 
-- `GET /api/properties/:id` → 
-- `PUT /api/properties/:id` → 
-- `DELETE /api/properties/:id` → 
-
-### 🔹 Transactions
-- `POST /api/properties/:id/buy` → 
-- `POST /api/properties/:id/sell` → 
+| Method | Endpoint            | Description                 |
+|--------|---------------------|-----------------------------|
+| POST   | /api/signup         | User Signup                |
+| POST   | /api/login          | User Login                 |
+| GET    | /api/profile        | Get User Profile           |
+| PUT    | /api/profile/edit   | Edit User Profile          |
+| POST   | /api/property/add   | Add New Property           |
+| GET    | /api/property/list  | List Properties            |
+| POST   | /api/property/buy   | Buy Property               |
+| DELETE | /api/property/sell  | Sell Property              |
 
 #### 📌 Example API Request (Add Property):
 ```sh
