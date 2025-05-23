@@ -17,7 +17,7 @@ const HomeTwo = () => {
       <HeaderTwo style_1={false} style_2={false} />
       <HeroBanner />
       <FeedbackOne />
-      <Property />
+      {/* <Property /> */}
       <BLockFeatureOne />
       <FancyBannerOne />
       <BLockFeatureTwo />
